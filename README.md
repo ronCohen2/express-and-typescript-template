@@ -14,10 +14,8 @@ git clone https://github.com/greenroach/express-ts-template.git
 cd <project_name>
 npm install
 ```
-- Build and run the project
-```
-npm run build
-npm start
+Run with nodemon
+npm run watch
 ```
 Navigate to `http://localhost:3000`
 
